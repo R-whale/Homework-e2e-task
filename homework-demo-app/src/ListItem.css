@@ -1,0 +1,24 @@
+.done-item{
+    color: gray;
+    font-size: 20px;
+    border-style: solid;
+    border-color: gray;
+    width: 300px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    text-decoration: line-through;
+    
+}
+
+.item{
+    color: black;
+    font-size: 20px;
+    border-style: solid;
+    border-color:black;
+    width: 300px;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
